@@ -6,11 +6,3 @@ D:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.SuggestedBindingRedirects.cache
 D:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.CoreCompileInputs.cache
 D:\rep\src\Exm\Exm\obj\Debug\Exm.exe
 D:\rep\src\Exm\Exm\obj\Debug\Exm.pdb
-C:\rep\src\Exm\Exm\bin\Debug\Exm.exe.config
-C:\rep\src\Exm\Exm\bin\Debug\Exm.exe
-C:\rep\src\Exm\Exm\bin\Debug\Exm.pdb
-C:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.AssemblyReference.cache
-C:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.SuggestedBindingRedirects.cache
-C:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.CoreCompileInputs.cache
-C:\rep\src\Exm\Exm\obj\Debug\Exm.exe
-C:\rep\src\Exm\Exm\obj\Debug\Exm.pdb

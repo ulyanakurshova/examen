@@ -33,14 +33,14 @@ namespace Exm
                     int c = j + 1;
                     weather[j] = new Indication();
                     Console.Write("Введите температуру записи №" + c + " (дробные числа вводить через запятую) ");
-                    double temp = Convert.ToDouble(Console.ReadLine());
-                    weather[j].temp = temp;
+                    string temp = Console.ReadLine();
+                    weather[j].temp = Convert.ToDouble(temp);
                     Console.Write("Введите влажность записи №" + c + " (дробные числа вводить через запятую) ");
-                    double humidity = Convert.ToDouble(Console.ReadLine());
-                    weather[j].humidity = humidity;
+                    string humidity = Console.ReadLine();
+                    weather[j].humidity = Convert.ToDouble(temp);
                     Console.Write("Введите давление записи №" + c + " (дробные числа вводить через запятую) ");
-                    double pressure = Convert.ToDouble(Console.ReadLine());
-                    weather[j].pressure = humidity;
+                    string pressure = Console.ReadLine();
+                    weather[j].pressure = Convert.ToDouble(temp);
                 }
                 sort(weather);
                 zapis(weather, imascount);
