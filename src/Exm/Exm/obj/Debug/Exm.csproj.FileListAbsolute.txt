@@ -1,0 +1,8 @@
+D:\rep\src\Exm\Exm\bin\Debug\Exm.exe.config
+D:\rep\src\Exm\Exm\bin\Debug\Exm.exe
+D:\rep\src\Exm\Exm\bin\Debug\Exm.pdb
+D:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.AssemblyReference.cache
+D:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.SuggestedBindingRedirects.cache
+D:\rep\src\Exm\Exm\obj\Debug\Exm.csproj.CoreCompileInputs.cache
+D:\rep\src\Exm\Exm\obj\Debug\Exm.exe
+D:\rep\src\Exm\Exm\obj\Debug\Exm.pdb
